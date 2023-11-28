@@ -9,10 +9,10 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "SalientMinds",
     time: "(July, 2023 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Worked on the Quality Assurance part of the product X-NODE.</li> <li>Worked on Dev part of the application and have identified some bugs in the application.</li> <li>Identified and cleared errors in Navi.api in dev of X-NODE.</li>",
   },
   {
-    title: "Student Developer",
+    title: "Senior Research Developer Intern",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Google Summer Of Code",
     time: "(Mar - Aug, 2019)",
@@ -65,25 +65,25 @@ const volunteershipcards = [
     title: "Ineuron-Hackathon",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Developed a web project as a part of Ineuron 2 day hackathon at my college.",
   },
   {
-    title: "",
+    title: "National Sysmposium on Data Driven Deep Disruptions",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Taken part in a symposium where experts from diverse fields have showcased their effective ideas.",
   },
   {
     title: "Division Evaluation Contest",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Won 2nd Place at Club level and Area Level Evaluation Contest and have Participated in Division Level",
   },
   {
-    title: "Hakin-Codes",
+    title: "Area Level TableTopics Contest",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "I did a podium finish in an impromptu speaking competition in Toastmasters.",
   },
 ];
 
