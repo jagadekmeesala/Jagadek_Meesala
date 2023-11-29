@@ -1,29 +1,26 @@
 AOS.init();
-
-//  Work experience cards
-
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Backend Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/Salientminds.png",
     place: "SalientMinds",
-    time: "(July, 2023 - present)",
-    desp: "<li>Worked on the Quality Assurance part of the product X-NODE.</li> <li>Worked on Dev part of the application and have identified some bugs in the application.</li> <li>Identified and cleared errors in Navi.api in dev of X-NODE.</li>",
+    time: "(July, 2023 - Present)",
+    desp: "<li>Worked on the Quality Assurance part of the product X-NODE.</li> <li>Worked on Dev side of the application and have identified some bugs in the application.</li> <li>Identified and cleared errors in Navi.api in dev of X-NODE.</li>",
   },
   {
     title: "Senior Research Developer Intern",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    cardImage: "assets/images/experience-page/K-HUB.png",
+    place: "K-Hub - IIIT-H",
+    time: "(July, 2023 - Present)",
+    desp: "<li>K-Hub is affliated to IIIT-H.</li><li>As a senior deveoper intern, I have the responsibility of leading my junior developer to do the projects assigned.</li><li>Area of working will be MERN Stack.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Cognifyz Data Analysis Intern",
+    cardImage: "assets/images/experience-page/Cognifyz.png",
+    place: "Online",
+    time: "( May 2023)",
+    desp: "<li>This is a virtual Data Analysis internship.</li> <li>I have worked on Pyhton, Data cleaning, Pre-processing and Visualising the data.</li>",
   },
 ];
 
@@ -63,25 +60,25 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Ineuron-Hackathon",
-    cardImage: "assets/images/experience-page/1.jpg",
+    cardImage: "assets/images/experience-page/Ineuron.png",
     description:
       "Developed a web project as a part of Ineuron 2 day hackathon at my college.",
   },
   {
     title: "National Sysmposium on Data Driven Deep Disruptions",
-    cardImage: "assets/images/experience-page/2.jpg",
+    cardImage: "assets/images/experience-page/IIITH.jpg",
     description:
       "Taken part in a symposium where experts from diverse fields have showcased their effective ideas.",
   },
   {
     title: "Division Evaluation Contest",
-    cardImage: "assets/images/experience-page/3.jpg",
+    cardImage: "assets/images/experience-page/TM3.jpg",
     description:
       "Won 2nd Place at Club level and Area Level Evaluation Contest and have Participated in Division Level",
   },
   {
     title: "Area Level TableTopics Contest",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experience-page/TM4.jpg",
     description:
       "I did a podium finish in an impromptu speaking competition in Toastmasters.",
   },

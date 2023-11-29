@@ -9987,3 +9987,33 @@ margin: 0 15px; /* Adjust the spacing between icons */
 .social-link:hover {
 color: #0056b3; /* Adjust the hover color if needed */
 }
+
+/* Reset some default button styles */
+button {
+  padding: 15;
+  border: none;
+  background: none;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+/* Style the button */
+.styled-button {
+  display: inline-block;
+  padding: 10px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid #3498db; /* Border color */
+  color: #3498db; /* Text color */
+  background-color: #fff; /* Background color */
+  border-radius: 10px; /* Rounded corners */
+  transition: background-color 0.3s, color 0.3s; /* Add smooth transition */
+}
+
+/* Hover effect */
+.styled-button:hover {
+  background-color: #de7d28; /* Change background color on hover */
+  color: #fff; /* Change text color on hover */
+}
