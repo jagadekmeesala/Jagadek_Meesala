@@ -3,7 +3,7 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Foundations of Modern Machine Learning-III Hyderabad",
-    cardImage: "assets/images/education-page/FMML.PNG",
+    cardImage: "assets/images/education-page/Fmml.PNG",
     moocLink: "https://drive.google.com/file/d/1iiTEyfG0VHvEj_M8RDm669_bqaqWdhNd/view?usp=drive_link",
   },
   {
